@@ -7,6 +7,7 @@
 
 import XCTest
 
+@testable import QuizEngine
 
 class FlowTest: XCTestCase {
     
