@@ -19,10 +19,6 @@
 		4565CC8A25CB503100868B02 /* Flow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4520A6AB25AFF6E100FC5243 /* Flow.swift */; };
 		4565CC8B25CB503100868B02 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4565CC3725CA1CE700868B02 /* Game.swift */; };
 		4565CC8C25CB503100868B02 /* Result.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4565CC1625CA17C700868B02 /* Result.swift */; };
-		4565CD0D25CB53B800868B02 /* Router.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4565CC1A25CA17D500868B02 /* Router.swift */; };
-		4565CD0E25CB53B800868B02 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4565CC3725CA1CE700868B02 /* Game.swift */; };
-		4565CD0F25CB53B800868B02 /* Flow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4520A6AB25AFF6E100FC5243 /* Flow.swift */; };
-		4565CD1025CB53B800868B02 /* Result.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4565CC1625CA17C700868B02 /* Result.swift */; };
 		4565CD1D25CB53CD00868B02 /* Router.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4565CC1A25CA17D500868B02 /* Router.swift */; };
 		4565CD1E25CB53CD00868B02 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4565CC3725CA1CE700868B02 /* Game.swift */; };
 		4565CD1F25CB53CD00868B02 /* Flow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4520A6AB25AFF6E100FC5243 /* Flow.swift */; };
@@ -344,11 +340,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4565CD0D25CB53B800868B02 /* Router.swift in Sources */,
-				4565CD0E25CB53B800868B02 /* Game.swift in Sources */,
 				4565CC8225CB502800868B02 /* FlowTest.swift in Sources */,
-				4565CD0F25CB53B800868B02 /* Flow.swift in Sources */,
-				4565CD1025CB53B800868B02 /* Result.swift in Sources */,
 				4565CC8325CB502800868B02 /* GameTest.swift in Sources */,
 				4565CC8425CB502800868B02 /* RouterSpy.swift in Sources */,
 			);
