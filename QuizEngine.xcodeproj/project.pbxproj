@@ -23,6 +23,7 @@
 		4565CD1E25CB53CD00868B02 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4565CC3725CA1CE700868B02 /* Game.swift */; };
 		4565CD1F25CB53CD00868B02 /* Flow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4520A6AB25AFF6E100FC5243 /* Flow.swift */; };
 		4565CD2025CB53CD00868B02 /* Result.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4565CC1625CA17C700868B02 /* Result.swift */; };
+		45B5ADD425FA8F4A009048ED /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45B5ADD325FA8F4A009048ED /* Question.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,7 @@
 		4565CC3B25CA1D2E00868B02 /* RouterSpy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RouterSpy.swift; sourceTree = "<group>"; };
 		4565CC5B25CA3C1600868B02 /* QuizEngine.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = QuizEngine.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4565CC6325CA3C1600868B02 /* QuizEngineTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QuizEngineTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		45B5ADD325FA8F4A009048ED /* Question.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +121,7 @@
 				4565CC1A25CA17D500868B02 /* Router.swift */,
 				4520A68B25AFF4B300FC5243 /* Info.plist */,
 				4520A6AB25AFF6E100FC5243 /* Flow.swift */,
+				45B5ADD325FA8F4A009048ED /* Question.swift */,
 				4565CC3725CA1CE700868B02 /* Game.swift */,
 			);
 			path = QuizEngine;
@@ -308,6 +311,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				45B5ADD425FA8F4A009048ED /* Question.swift in Sources */,
 				4565CD1F25CB53CD00868B02 /* Flow.swift in Sources */,
 				4565CD1D25CB53CD00868B02 /* Router.swift in Sources */,
 				4565CD2025CB53CD00868B02 /* Result.swift in Sources */,
